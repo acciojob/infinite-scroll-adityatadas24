@@ -1,7 +1,7 @@
 //your code here!
 document.addEventListener("DOMContentLoaded", function () {
     // Initial list items
-    const initialListItems = 10;
+    const initialListItems = 100;
 
     // Get the list element by its ID
     const list = document.getElementById("infi-list");
