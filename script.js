@@ -4,7 +4,7 @@ document.addEventListener("DOMContentLoaded", function () {
     const initialListItems = 10;
 
     // Get the list element by its ID
-    const list = document.getElementById("myList");
+    const list = document.getElementById("infi-list");
 
     // Function to add a new list item
     function addListItem() {
